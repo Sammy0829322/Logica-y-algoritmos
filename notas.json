@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Compras",
+    "contenido": "Comprar leche y pan."
+  },
+  {
+    "titulo": "Supermercado",
+    "contenido": "Comprar huevos, fruta y café."
+  },
+  {
+    "titulo": "Gimnasio",
+    "contenido": "Llevar toalla y renovar mensualidad."
+  },
+  {
+    "titulo": "Dentista",
+    "contenido": "Cita de limpieza el jueves a las 5 PM."
+  },
+  {
+    "titulo": "Casa",
+    "contenido": "Sacar la basura y regar las plantas."
+  }
+]
